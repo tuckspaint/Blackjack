@@ -1,2 +1,2 @@
-# EECS448_Blackjack
+# Blackjack
 A straightforward blackjack game made with C++ including a testing suite and a nice UI
